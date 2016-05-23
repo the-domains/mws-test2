@@ -1,0 +1,14 @@
+layout_spectrum: 0.3115240605548024
+typography_spectrum: 0.8371549397706985
+color:
+  brandStrength: 0.7729883876163512
+  lightness: 0.05495892162434757
+  saturation: 0.9052694018464535
+  rhythmicContrast: 0.8200815045274794
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: mws-test2
