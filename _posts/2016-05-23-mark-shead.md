@@ -1,7 +1,7 @@
 ---
 description: 'Mark Shead helps organizations and teams create better systems through software engineering, Agile coaching, and process improvements.'
-dateModified: '2016-05-24T02:57:30.921Z'
-datePublished: '2016-05-24T02:57:35.706Z'
+dateModified: '2016-05-24T17:06:18.326Z'
+datePublished: '2016-05-24T17:06:31.401Z'
 title: Mark Shead
 author: []
 sourcePath: _posts/2016-05-23-mark-shead.md
@@ -12,7 +12,7 @@ inNav: false
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8c25f2801b6e1031c1be5b5f0db003e1b5f60d8.jpg" /><h1>Mark Shead</h1></article>
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a5ee49d-4d7e-4703-9318-41ee941d7f93.jpg" /><h1>Mark Shead</h1></article>
 
 **Mark Shead **helps organizations and teams create better systems through software engineering, Agile coaching, and process improvements.
 
