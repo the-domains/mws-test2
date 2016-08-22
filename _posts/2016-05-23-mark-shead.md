@@ -1,11 +1,15 @@
 ---
-description: 'Mark Shead helps organizations and teams create better systems through software engineering, Agile coaching, and process improvements.'
-dateModified: '2016-05-24T17:06:18.326Z'
-datePublished: '2016-05-24T17:06:31.401Z'
 title: Mark Shead
+datePublished: '2016-08-22T23:21:55.315Z'
+dateModified: '2016-08-22T23:21:51.784Z'
 author: []
-sourcePath: _posts/2016-05-23-mark-shead.md
+description: >-
+  Mark Shead helps organizations and teams create better systems through
+  software engineering, Agile coaching, and process improvements.
+publisher: {}
+via: {}
 starred: false
+sourcePath: _posts/2016-05-23-mark-shead.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -32,5 +36,3 @@ Clients include:
 * Lakers Nation
 * Ward/Kraft Inc.
 * Laugh Your Way America
-
-.
