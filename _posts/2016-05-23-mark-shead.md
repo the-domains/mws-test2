@@ -1,12 +1,12 @@
 ---
 title: Mark Shead
-datePublished: '2016-08-22T23:21:55.315Z'
-dateModified: '2016-08-22T23:21:51.784Z'
+datePublished: '2016-08-22T23:22:17.457Z'
+dateModified: '2016-08-22T23:22:15.171Z'
+publisher: {}
 author: []
 description: >-
   Mark Shead helps organizations and teams create better systems through
   software engineering, Agile coaching, and process improvements.
-publisher: {}
 via: {}
 starred: false
 sourcePath: _posts/2016-05-23-mark-shead.md
